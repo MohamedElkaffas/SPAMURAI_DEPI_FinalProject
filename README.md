@@ -147,4 +147,4 @@ Future Improvements
         Develop a frontend interface to make the classifier user-friendly.
 Team Members :
 Mohamed Atef abdelnaby abdAllah Elkaffas
-Moataz Elsadany
+Moaz Elsadany
