@@ -145,3 +145,7 @@ Future Improvements
         Implement load balancing and containerization (e.g., using Docker and Kubernetes) for handling higher traffic.
     User Interface:
         Develop a frontend interface to make the classifier user-friendly.
+Team Members :
+Mohamed Atef abdelnaby abdAllah Elkaffas
+Moataz Elsadany
+Mohamed Bekhiet
